@@ -1,7 +1,7 @@
-# Decola-Tech
+# Contador
 
 <div>
-  <h2> Colocando em prática as aulas </h2>
+  <h2> Criando um contador</h2>
 
-  <p>Realizando a criação, atualização e sincronização do primeiro repositório do Bootcamp! </p>
+  <p>Realizando a criação, atualização e estilização do primeiro projeto com JavaScript! </p>
 </div>
